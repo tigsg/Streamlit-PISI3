@@ -1,0 +1,6 @@
+streamlit==1.40.1
+ydata-profiling==4.12.0
+plotly==5.24.1
+scikit-learn==1.5.2
+pandas>=2.2.3
+seaborn>=0.13.2
